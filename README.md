@@ -40,7 +40,7 @@ npm start
 
 Scan the QR code displayed in your terminal or browser using the Expo Go app on your mobile device (available on the Apple App Store and Google Play Store).
 
-This will allow you to run the mobile application directly on your device using Expo Go.
+This will allow you to run the mobile application directly on your device.
 
 ## Usage
 
