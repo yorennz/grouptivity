@@ -1,7 +1,6 @@
 # Grouptivity - Mobile Directory
 
-**Grouptivity** is a mobile application developed by a team of four. It is designed as a corporate directory to help users easily find and contact their colleagues. The app also features a customizable space where users can add various utility widgets for a more personalized experience.
-We developed it as a four-person collaboration **September 2023**.
+**Grouptivity** is a mobile application designed as a corporate directory to help users easily find and contact their colleagues. The app also features a customizable space where users can add various utility widgets for a more personalized experience. We developed it as a four-person collaboration in **September 2023**.
 
 **Note:** This project is no longer maintained, and you may encounter issues while using it.
 
@@ -51,5 +50,5 @@ Once the app is running, you can:
 
 ## Development Team
 
-| [<img src="https://github.com/yorennz.png?size=85" width=85><br>Yorennz ZELINA](https://github.com/yorennz) | [<img src="https://github.com/LebibYann.png?size=85" width=85><br>Yann LEBIB](https://github.com/LebibYann) | <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png?size=85" width=85><br>Jean-Pierre JANOPOULOS | [<img src="https://github.com/adambenta.png?size=85](https://github.com/LebibYann.png?size=85" width=85><br>Adam BENTALEB](https://github.com/adambenta) |
+| [<img src="https://github.com/yorennz.png?size=85" width=85><br>Yorennz ZELINA](https://github.com/yorennz) | [<img src="https://github.com/LebibYann.png?size=85" width=85><br>Yann LEBIB](https://github.com/LebibYann) | [<img src="https://github.com/adambenta.png?size=85](https://github.com/LebibYann.png?size=85" width=85><br>Adam BENTALEB](https://github.com/adambenta) | <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png?size=85" width=85><br>Jean-Pierre<br>JANOPOULOS |
 | :---: | :---: | :---: | :---: |
