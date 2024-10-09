@@ -1,4 +1,4 @@
-# Grouptivity - Mobile Directory and Utility Widgets
+# Grouptivity - Mobile Directory
 
 **Grouptivity** is a mobile application developed by a team of four. It is designed as a corporate directory to help users easily find and contact their colleagues. The app also features a customizable space where users can add various utility widgets for a more personalized experience.
 We developed it as a four-person collaboration **September 2023**.
