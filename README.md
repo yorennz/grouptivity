@@ -3,6 +3,8 @@
 **Grouptivity** is a mobile application developed by a team of four. It is designed as a corporate directory to help users easily find and contact their colleagues. The app also features a customizable space where users can add various utility widgets for a more personalized experience.
 We developed it as a four-person collaboration **September 2023**.
 
+**Note:** This project is no longer maintained, and you may encounter issues while using it.
+
 ## Technologies
 
 [React Native](https://reactnative.dev/) + [Expo](https://expo.dev/)
