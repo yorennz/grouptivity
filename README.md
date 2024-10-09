@@ -3,12 +3,6 @@
 **Grouptivity** is a mobile application developed by a team of four. It is designed as a corporate directory to help users easily find and contact their colleagues. The app also features a customizable space where users can add various utility widgets for a more personalized experience.
 We developed it as a four-person collaboration **September 2023**.
 
-## Key Features
-
-- **Directory**: Easily find and contact colleagues with a user-friendly interface.
-- **Customizable Widgets**: Users can personalize their workspace by adding utility widgets such as quick contacts, reminders, or task lists.
-- **Mobile Application**: Built using React Native and Expo for a smooth cross-platform experience.
-
 ## Technologies
 
 [React Native](https://reactnative.dev/) + [Expo](https://expo.dev/)
@@ -26,7 +20,7 @@ We developed it as a four-person collaboration **September 2023**.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/grouptivity.git
+git clone https://github.com/yorennz/grouptivity.git
 cd grouptivity
 ```
 
