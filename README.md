@@ -46,9 +46,8 @@ This will allow you to run the mobile application directly on your device using 
 
 Once the app is running, you can:
 
-  •	Search for colleagues in the directory.
-  •	Contact them directly through the app.
-  •	Customize your workspace by adding useful widgets to your personal dashboard.
+- Search for colleagues in the directory.
+- Customize your workspace by adding useful widgets to your personal dashboard.
 
 ## Development Team
 
